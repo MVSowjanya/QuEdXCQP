@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "QuEdX CQP Website",
   "scripts": {
-    "build": "npx @tailwindcss/cli -i ./src/input.css -o ./src/styles.css --minify",
     "dev": "npx @tailwindcss/cli -i ./src/input.css -o ./src/styles.css --watch"
   },
   "dependencies": {
